@@ -1,12 +1,28 @@
 {
-    "name": "laravel/laravel",
+    "name": "benhovinga/open-volunteer",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "Open Volunteer",
+    "license": "GPL-3.0-or-later",
     "keywords": [
-        "framework",
-        "laravel"
+        "volunteer",
+        "manager"
     ],
-    "license": "MIT",
+    "homepage": "https://github.com/benhovinga/open-volunteer",
+    "readme": "README.md",
+
+    "version": "0.0.1-dev",
+    "time": "2019-03-24",
+
+    "authors": [
+        {
+            "name": "Ben Hovinga",
+            "email": "ben@hovinga.ca",
+            "homepage": "https://ben.hovinga.ca",
+            "role": "Developer"
+        }
+    ],
+
+
     "require": {
         "php": "^7.1.3",
         "fideloper/proxy": "^4.0",
