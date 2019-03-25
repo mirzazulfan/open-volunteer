@@ -1,3 +1,7 @@
+<h1 align=center>
+<img src="logotype_vertical_blue.svg" width=40%>
+</h1>
+
 # Open Volunteer
 
 ## Current Status
